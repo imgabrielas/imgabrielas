@@ -1,6 +1,4 @@
-## Hi there 👋
-# Work in progress
-
+<img src="assets/banner.png">
 <table>
 <tr>
 <td width="45%" valign="top">
