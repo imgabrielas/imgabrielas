@@ -20,15 +20,46 @@
 a collection of projects, experiments and ideas
 from a student who loves to explore.
 
-<img src="assets/6.svg" height="30"> data analysis
 
-<img src="assets/7.svg" height="30"> machine learning
+<details>
+<summary><img src="assets/6.svg" height="30"> <b>data analysis</b></summary>
+<br>
+- await in patience ;))
+</details>
 
-<img src="assets/8.svg" height="30"> computer vision
 
-<img src="assets/9.svg" height="30"> web development
 
-<img src="assets/10.svg" height="30"> creative projects
+<details>
+<summary><img src="assets/7.svg" height="30"> <b>machine learning</b></summary>
+<br>
+- await in patience ;))
+</details>
+
+
+
+<details>
+<summary><img src="assets/8.svg" height="30"> <b>Computer Vision</b></summary>
+<br>
+- [PyPhotobooth](https://github.com/imgabrielas/PyPhotobooth)
+</details>
+
+
+
+<details>
+<summary><img src="assets/9.svg" height="30"> <b>web development</b></summary>
+<br>
+- await in patience ;))
+</details>
+
+
+
+<details>
+<summary><img src="assets/10.svg" height="30"> <b>creative projects</b></summary>
+<br>
+- await in patience ;))
+</details>
+
+
 
 </td>
 </tr>
