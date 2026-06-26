@@ -61,8 +61,9 @@ from a student who loves to explore.
 <summary><img src="assets/10.svg" height="30"> <b>creative projects</b></summary>
 <br>
 
-- await in patience ;))
+- [PyPhotobooth](https://github.com/imgabrielas/py-playground)
 </details>
+
 
 
 
