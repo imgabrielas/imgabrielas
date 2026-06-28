@@ -25,7 +25,7 @@ from a student who loves to explore.
 <summary><img src="assets/6.svg" height="30"> <b>data analysis</b></summary>
 <br>
 
-- await in patience ;))
+- [DataAnalysisPractice](https://github.com/imgabrielas/DataAnalysisPractice)
 </details>
 
 
