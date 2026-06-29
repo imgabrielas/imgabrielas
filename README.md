@@ -26,6 +26,7 @@ from a student who loves to explore.
 <br>
 
 - [DataAnalysisPractice](https://github.com/imgabrielas/DataAnalysisPractice)
+- [Formula1-Data-Analysis](https://github.com/imgabrielas/Formula1-Data-Analysis)
 </details>
 
 
