@@ -63,6 +63,7 @@ from a student who loves to explore.
 <br>
 
 - [PyPlayground](https://github.com/imgabrielas/py-playground)
+- [Legally Blonde ESP32](https://github.com/imgabrielas/Legally-Blonde-ESP32)
 </details>
 
 
