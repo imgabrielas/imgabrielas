@@ -35,7 +35,7 @@ from a student who loves to explore.
 <summary><img src="assets/7.svg" height="30"> <b>machine learning</b></summary>
 <br>
 
-- await in patience ;))
+- [How-To-Make-ML](https://github.com/imgabrielas/How-To-Make-ML)
 </details>
 
 
