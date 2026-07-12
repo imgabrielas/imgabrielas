@@ -36,6 +36,7 @@ from a student who loves to explore.
 <br>
 
 - [How-To-Make-ML](https://github.com/imgabrielas/How-To-Make-ML)
+- [Sephora](https://github.com/imgabrielas/Sephora)
 </details>
 
 
