@@ -49,6 +49,7 @@ from a student who loves to explore.
 <br>
 
 - [PyPhotobooth](https://github.com/imgabrielas/PyPhotobooth)
+- [Hand Tracker](https://github.com/imgabrielas/cv-hand-tracking)
 </details>
 
 
