@@ -33,12 +33,13 @@ from a student who loves to explore.
 
 <details> 
 <summary><img src="assets/7.svg" height="30"> <b>machine learning</b></summary>
-<br>
+<br> 
 
 - [How 2 Make ML](https://github.com/imgabrielas/How-To-Make-ML)
 - [Sephora](https://github.com/imgabrielas/Sephora)
 - [Alzheimer Detection](https://github.com/imgabrielas/Alzheimer-Detection)
 - [F1 Belgian Grand Prix 2026 Winner Prediction](https://github.com/imgabrielas/F1-Belgian-GP-2026)
+- [Amazon Sales](https://github.com/imgabrielas/Amazon-sales)
  
 </details>
 
