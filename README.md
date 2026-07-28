@@ -17,7 +17,7 @@
 
 ## <img src="assets/5.svg" height="30"> what you'll find here
 
-a collection of projects, experiments and ideas
+a collection of projects, experiments & ideas
 from a student who loves to explore.
 
 
