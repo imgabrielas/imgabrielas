@@ -29,7 +29,7 @@ from a student who loves to explore.
 - [Formula 1 Data Analysis](https://github.com/imgabrielas/Formula1-Data-Analysis)
 </details>
 
-
+Biometry
 
 <details> 
 <summary><img src="assets/7.svg" height="30"> <b>machine learning</b></summary>
@@ -40,6 +40,7 @@ from a student who loves to explore.
 - [Alzheimer Detection](https://github.com/imgabrielas/Alzheimer-Detection)
 - [F1 Belgian Grand Prix 2026 Winner Prediction](https://github.com/imgabrielas/F1-Belgian-GP-2026)
 - [Amazon Sales](https://github.com/imgabrielas/Amazon-sales)
+- [Biometry](https://github.com/imgabrielas/Biometry)
  
 </details>
 
@@ -51,6 +52,7 @@ from a student who loves to explore.
 
 - [PyPhotobooth](https://github.com/imgabrielas/PyPhotobooth)
 - [Hand Tracker](https://github.com/imgabrielas/cv-hand-tracking)
+- [Biometry](https://github.com/imgabrielas/Biometry)
 </details>
 
 
