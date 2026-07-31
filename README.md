@@ -29,7 +29,7 @@ from a student who loves to explore.
 - [Formula 1 Data Analysis](https://github.com/imgabrielas/Formula1-Data-Analysis)
 </details>
 
-Biometry
+
 
 <details> 
 <summary><img src="assets/7.svg" height="30"> <b>machine learning</b></summary>
