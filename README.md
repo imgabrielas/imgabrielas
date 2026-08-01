@@ -5,7 +5,7 @@
 
 ## <img src="assets/1.svg" height="30"> about me
 
-<img src="assets/2.svg" height="30"> student blending fashion, IT, business and a thousand other hobbies
+<img src="assets/2.svg" height="30"> student blending fashion, IT, business and a thousand other hobbies 
 
 <img src="assets/3.svg" height="30"> love all things that spark curiosity
 
