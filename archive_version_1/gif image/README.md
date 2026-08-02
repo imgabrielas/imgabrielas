@@ -6,7 +6,7 @@ README "tech stack" banner.
 
 ## How it works
 
-1. Loads every `.svg` file from `icons/`, sorted alphabetically, and renders
+1. Loads every `.svg` file from `icons`, sorted alphabetically, and renders
    each one to a fixed-height transparent PNG with `cairosvg`.
 2. Lays the icons out in a single row (`create_icon_row`), spaced evenly.
 3. Duplicates the row and slides a canvas-sized window across it frame by
@@ -25,7 +25,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Add or replace the SVG icons in `icons/`, then run:
+Add or replace the SVG icons in `icons`, then run:
 
 ```bash
 python create_tech_stack_gif.py
