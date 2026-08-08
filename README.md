@@ -81,3 +81,6 @@ from a student who loves to explore.
 </tr>
 </table>
 <img src="archive_version_1/assets/tech_stack_transparent.gif">
+<br>
+
+<img src="archive_version_2/contribution_graph.png">
