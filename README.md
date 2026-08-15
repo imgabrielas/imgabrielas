@@ -44,7 +44,11 @@ from a student who loves to explore.
  
 </details>
 
-
+<details>
+<summary><img src="archive_version_1/assets/AI.svg" height="30"> <b>GenAI</b></summary>
+<br>
+- await in patience ;))
+</details>
 
 <details>
 <summary><img src="archive_version_1/assets/8.svg" height="30"> <b>Computer Vision</b></summary>
