@@ -47,7 +47,9 @@ from a student who loves to explore.
 <details>
 <summary><img src="archive_version_1/assets/AI.svg" height="30"> <b>GenAI</b></summary>
 <br>
-- await in patience ;))
+
+- [GenAI LAB](https://github.com/imgabrielas/GenAI-Lab)
+
 </details>
 
 <details>
