@@ -27,6 +27,9 @@ from a student who loves to explore.
 
 - [Data Analysis Practice](https://github.com/imgabrielas/DataAnalysisPractice)
 - [Formula 1 Data Analysis](https://github.com/imgabrielas/Formula1-Data-Analysis)
+- [Sephora Analysis](https://github.com/imgabrielas/Sephora)<br>
+  <sub>End-to-end data analysis project on Sephora product & review data. Python descriptive and predictive analysis, Power BI report.</sub>
+</details>
 </details>
 
 
@@ -36,7 +39,9 @@ from a student who loves to explore.
 <br> 
 
 - [How 2 Make ML](https://github.com/imgabrielas/How-To-Make-ML)
-- [Sephora Analysis](https://github.com/imgabrielas/Sephora)
+- [Sephora Analysis](https://github.com/imgabrielas/Sephora)<br>
+  <sub>End-to-end data analysis project on Sephora product & review data. Python descriptive and predictive analysis, Power BI report.</sub>
+
 - [Alzheimer Detection](https://github.com/imgabrielas/Alzheimer-Detection)
 - [F1 Belgian Grand Prix 2026 Winner Prediction](https://github.com/imgabrielas/F1-Belgian-GP-2026)
 - [Amazon Sales](https://github.com/imgabrielas/Amazon-sales)
