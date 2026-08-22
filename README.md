@@ -46,8 +46,9 @@ from a student who loves to explore.
 - [F1 Belgian Grand Prix 2026 Winner Prediction](https://github.com/imgabrielas/F1-Belgian-GP-2026)<br>
   <sub>As a Formula 1 fan, this is my hobby project. Ongoing - needs more work, as F1 is fairly complex and quite unpredictable.</sub>
 - [Amazon Sales](https://github.com/imgabrielas/Amazon-sales)
-- [Biometry](https://github.com/imgabrielas/Biometry)
- 
+- [Biometry](https://github.com/imgabrielas/Biometry)<br>
+- [Kaggle Competition - Smartphone Addiction](https://www.kaggle.com/competitions/playground-series-s6e8/overview)
+  <sub>Soon...</sub> 
 </details>
 
 <details>
