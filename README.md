@@ -43,7 +43,8 @@ from a student who loves to explore.
   <sub>End-to-end data analysis project on Sephora product & review data. Python descriptive and predictive analysis, Power BI report.</sub>
 
 - [Alzheimer Detection](https://github.com/imgabrielas/Alzheimer-Detection)
-- [F1 Belgian Grand Prix 2026 Winner Prediction](https://github.com/imgabrielas/F1-Belgian-GP-2026)
+- [F1 Belgian Grand Prix 2026 Winner Prediction](https://github.com/imgabrielas/F1-Belgian-GP-2026)<br>
+  <sub>As a Formula 1 fan, this is my hobby project. Ongoing - needs more work, as F1 is fairly complex and quite unpredictable.</sub>
 - [Amazon Sales](https://github.com/imgabrielas/Amazon-sales)
 - [Biometry](https://github.com/imgabrielas/Biometry)
  
