@@ -38,7 +38,8 @@ from a student who loves to explore.
 <summary><img src="archive_version_1/assets/7.svg" height="30"> <b>machine learning</b></summary>
 <br> 
 
-- [How 2 Make ML](https://github.com/imgabrielas/How-To-Make-ML)
+- [How 2 Make ML](https://github.com/imgabrielas/How-To-Make-ML)<br>
+  <sub>Might just be my most used repo ;)) Used for practice, feel free to check it out!</sub>
 - [Sephora Analysis](https://github.com/imgabrielas/Sephora)<br>
   <sub>End-to-end data analysis project on Sephora product & review data. Python descriptive and predictive analysis, Power BI report.</sub>
 
