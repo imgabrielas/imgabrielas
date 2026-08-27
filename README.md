@@ -30,7 +30,6 @@ from a student who loves to explore.
 - [Sephora Analysis](https://github.com/imgabrielas/Sephora)<br>
   <sub>End-to-end data analysis project on Sephora product & review data. Python descriptive and predictive analysis, Power BI report.</sub>
 </details>
-</details>
 
 
 
@@ -48,7 +47,7 @@ from a student who loves to explore.
   <sub>As a Formula 1 fan, this is my hobby project. Ongoing - needs more work, as F1 is fairly complex and quite unpredictable.</sub>
 - [Amazon Sales](https://github.com/imgabrielas/Amazon-sales)
 - [Biometry](https://github.com/imgabrielas/Biometry)<br>
-- [Kaggle Competition - Smartphone Addiction](https://www.kaggle.com/competitions/playground-series-s6e8/overview)
+- [Kaggle Competition - Smartphone Addiction](https://github.com/imgabrielas/Smartphone-Addiction-Analysis)<br>
   <sub>Soon...</sub> 
 </details>
 
