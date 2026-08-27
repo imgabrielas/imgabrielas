@@ -1,4 +1,4 @@
-<img src="archive_version_1/assets/banner2.png">
+<img src="archive_version_1/assets/banner3.png">
 <table>
 <tr>
 <td width="45%" valign="top">
