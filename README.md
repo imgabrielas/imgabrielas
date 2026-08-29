@@ -26,7 +26,6 @@ from a student who loves to explore.
 <br>
 
 - [Data Analysis Practice](https://github.com/imgabrielas/DataAnalysisPractice)
-- [Formula 1 Data Analysis](https://github.com/imgabrielas/Formula1-Data-Analysis)
 - [Sephora Analysis](https://github.com/imgabrielas/Sephora)<br>
   <sub>End-to-end data analysis project on Sephora product & review data. Python descriptive and predictive analysis, Power BI report.</sub>
 </details>
@@ -43,8 +42,8 @@ from a student who loves to explore.
   <sub>End-to-end data analysis project on Sephora product & review data. Python descriptive and predictive analysis, Power BI report.</sub>
 
 - [Alzheimer Detection](https://github.com/imgabrielas/Alzheimer-Detection)
-- [F1 Belgian Grand Prix 2026 Winner Prediction](https://github.com/imgabrielas/F1-Belgian-GP-2026)<br>
-  <sub>As a Formula 1 fan, this is my hobby project. Ongoing - needs more work, as F1 is fairly complex and quite unpredictable.</sub>
+- [F1](https://github.com/imgabrielas/F1-Enthusiast.git)<br>
+  <sub>As a Formula 1 fan, this is my hobby project. Ongoing - needs more work, as F1 is fairly complex and quite unpredictable. Standings analysis & winner prediction.</sub>
 - [Amazon Sales](https://github.com/imgabrielas/Amazon-sales)
 - [Biometry](https://github.com/imgabrielas/Biometry)<br>
 - [Kaggle Competition - Smartphone Addiction](https://github.com/imgabrielas/Smartphone-Addiction-Analysis)<br>
