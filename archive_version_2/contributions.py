@@ -16,10 +16,13 @@ Usage:
 
 import argparse
 from datetime import datetime
+from pathlib import Path
 
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import pandas as pd
+
+SCRIPT_DIR = Path(__file__).resolve().parent
 
 # --------------------------------------------------------------------------
 # Config
@@ -37,7 +40,7 @@ LEVEL_COLORS = {
 LEVEL_LABELS = ["0", "1-3", "4-7", "8-10", "11-14"]
 
 DAILY_LINE_COLOR = "#4a97dc"      # solid line connecting daily points
-WEEKLY_LINE_COLOR = "#8957e5"     # dashed step line, weekly total
+WEEKLY_LINE_COLOR = "#9aa4ae"     # dashed step line, weekly total
 AVERAGE_LINE_COLOR = "#9aa4ae"    # dotted horizontal reference line
 GRID_AXIS_COLOR = "#9aa4ae"       # light grey axis/grid/spines
 
@@ -126,8 +129,8 @@ def make_plot(df: pd.DataFrame, out_path: str) -> None:
             "--", color=WEEKLY_LINE_COLOR, linewidth=1.5, zorder=2,
         )
     ax2.plot([], [], "--", color=WEEKLY_LINE_COLOR, label="Weekly total")
-    ax2.set_ylabel("Weekly total", color=WEEKLY_LINE_COLOR)
-    ax2.tick_params(axis="y", colors=WEEKLY_LINE_COLOR)
+    ax2.set_ylabel("Weekly total", color=GRID_AXIS_COLOR)
+    ax2.tick_params(axis="y", colors=GRID_AXIS_COLOR)
     for spine in ax2.spines.values():
         spine.set_visible(False)
 
@@ -179,8 +182,8 @@ def make_plot(df: pd.DataFrame, out_path: str) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--csv", default="contributions.csv", help="Path to the contributions CSV file")
-    parser.add_argument("--out", default="contribution_graph.png", help="Path to write the output PNG")
+    parser.add_argument("--csv", default=str(SCRIPT_DIR / "contributions.csv"), help="Path to the contributions CSV file")
+    parser.add_argument("--out", default=str(SCRIPT_DIR / "contribution_graph.png"), help="Path to write the output PNG")
     parser.add_argument("--year", type=int, default=datetime.now().year, help="Year to assume for dates in the CSV")
     args = parser.parse_args()
 
