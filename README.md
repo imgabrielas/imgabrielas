@@ -9,7 +9,9 @@
 
 <img src="archive_version_1/assets/3.svg" height="30"> love all things that spark curiosity
 
-<img src="archive_version_1/assets/4.svg" height="30"> I build projects that might look unrelated, but i call it creative output
+<img src="archive_version_1/assets/4.svg" height="30"> I build projects that might look unrelated, but i call it creative output<br>
+
+<p align="center"><img src="archive_version_1/assets/qr.svg" height="200"></p>
 
 </td>
 
