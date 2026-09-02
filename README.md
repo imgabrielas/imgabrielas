@@ -47,7 +47,7 @@ from a student who loves to explore.
 - [Amazon Sales](https://github.com/imgabrielas/Amazon-sales)
 - [Biometry](https://github.com/imgabrielas/Biometry)<br>
 - [Kaggle Competition - Smartphone Addiction](https://github.com/imgabrielas/Smartphone-Addiction-Analysis)<br>
-  <sub>Soon...</sub> 
+  <sub>End-to-end binary classification pipeline on ~700k records, from EDA and missing-data analysis through feature engineering and gradient-boosted ensembles (XGBoost/LightGBM/CatBoost), evaluated on ROC-AUC.</sub> 
 </details>
 
 <details>
@@ -73,7 +73,7 @@ from a student who loves to explore.
 <summary><img src="archive_version_1/assets/9.svg" height="30"> <b>web development</b></summary>
 <br>
 
-- await in patience ;))
+- [Personal website](https://imgabrielas.com/)
 </details>
 
 
