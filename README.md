@@ -43,7 +43,7 @@ from a student who loves to explore.
 
 - [Not so Small ML](https://github.com/imgabrielas/Not-So-Small-ML)<br>
   <sub>Small end-to-end data science projects. </sub>
-  - [Alzheimer Detection](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/alzheimer) | [Kaggle Competition Smartphone Addiction](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/smartphone-addiction) | [Kaggle Competition Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9)
+  - [Alzheimer Detection](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/alzheimer) | [Kaggle Competition Smartphone Addiction](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/smartphone-addiction) | [Kaggle Competition Electric Vehicle Purchases](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Electric-Vehicle-Purchases)
 
 - [Sephora Analysis](https://github.com/imgabrielas/Sephora)<br>
   <sub>End-to-end data analysis project on Sephora product & review data. Python descriptive and predictive analysis, Power BI report.</sub>
