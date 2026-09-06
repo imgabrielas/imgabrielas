@@ -32,10 +32,10 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 # so it stays a "sequential" read, same idea as GitHub's own graph).
 LEVEL_COLORS = {
     0: "#8b93a1",  # no contributions - neutral grey, reads on light & dark bg
-    1: "#8fc4ee",  # 1-3
-    2: "#4a97dc",  # 4-7
-    3: "#1c72c4",  # 8-10
-    4: "#0f4f8f",  # 11-14
+    4: "#8fc4ee",  # 1-3
+    3: "#4a97dc",  # 4-7
+    2: "#1c72c4",  # 8-10
+    1: "#0f4f8f",  # 11-14
 }
 LEVEL_LABELS = ["0", "1-3", "4-7", "8-10", "11-14"]
 
@@ -54,7 +54,7 @@ def level_for(n: int) -> int:
         return 1
     if n <= 7:
         return 2
-    if n <= 10:
+    if n <= 11:
         return 3
     return 4
 
