@@ -58,6 +58,15 @@ from a student who loves to explore.
 </details>
 
 <details>
+<summary><img src="archive_version_1/assets/pytorch.svg" height="30"> <b>Deep Learning</b></summary>
+<br>
+
+soon...
+
+</details>
+
+
+<details>
 <summary><img src="archive_version_1/assets/AI.svg" height="30"> <b>GenAI</b></summary>
 <br>
 
