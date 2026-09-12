@@ -5,11 +5,11 @@
 
 ## <img src="archive_version_1/assets/1.svg" height="30"> about me
 
-<img src="archive_version_1/assets/2.svg" height="30"> student blending fashion, IT, business and a thousand other hobbies<br>
+<img src="archive_version_1/icons/code.svg" height="30"> student blending fashion, IT, business and a thousand other hobbies<br>
 
-<img src="archive_version_1/assets/3.svg" height="30"> love all things that spark curiosity<br>
+<img src="archive_version_1/icons/game.svg" height="30"> love all things that spark curiosity<br>
 
-<img src="archive_version_1/assets/4.svg" height="30"> I build projects that might look unrelated, but i call it creative output<br>
+<img src="archive_version_1/icons/firework.svg" height="30"> I build projects that might look unrelated, but i call it creative output<br>
 
 <p align="center"><img src="archive_version_1/assets/qr.svg" height="200"></p>
 
@@ -17,14 +17,14 @@
 
 <td width="55%" valign="top">
 
-## <img src="archive_version_1/assets/5.svg" height="30"> what you'll find here
+## <img src="archive_version_1/icons/folder.svg" height="30"> what you'll find here
 
 a collection of projects, experiments & ideas
 from a student who loves to explore.
 
 
 <details>
-<summary><img src="archive_version_1/assets/6.svg" height="30"> <b>Data Analysis</b></summary>
+<summary><img src="archive_version_1/icons/magnifying-glass.svg" height="30"> <b>Data Analysis</b></summary>
 <br>
 
 - [Data Analysis Practice](https://github.com/imgabrielas/DataAnalysisPractice)
@@ -35,7 +35,7 @@ from a student who loves to explore.
 
 
 <details> 
-<summary><img src="archive_version_1/assets/7.svg" height="30"> <b>Machine Learning</b></summary>
+<summary><img src="archive_version_1/icons/ml.svg" height="30"> <b>Machine Learning</b></summary>
 <br> 
 
 - [How 2 Make ML](https://github.com/imgabrielas/How-To-Make-ML)<br>
@@ -58,7 +58,7 @@ from a student who loves to explore.
 </details>
 
 <details>
-<summary><img src="archive_version_1/assets/pytorch.svg" height="30"> <b>Deep Learning</b></summary>
+<summary><img src="archive_version_1/icons/pytorch.svg" height="30"> <b>Deep Learning</b></summary>
 <br>
 
 soon...
@@ -67,7 +67,7 @@ soon...
 
 
 <details>
-<summary><img src="archive_version_1/assets/AI.svg" height="30"> <b>GenAI</b></summary>
+<summary><img src="archive_version_1/icons/ai.svg" height="30"> <b>GenAI</b></summary>
 <br>
 
 - [GenAI LAB](https://github.com/imgabrielas/GenAI-Lab)
@@ -75,7 +75,7 @@ soon...
 </details>
 
 <details>
-<summary><img src="archive_version_1/assets/8.svg" height="30"> <b>Computer Vision</b></summary>
+<summary><img src="archive_version_1/icons/face-id.svg" height="30"> <b>Computer Vision</b></summary>
 <br>
 
 - [PyPhotobooth](https://github.com/imgabrielas/PyPhotobooth)
@@ -86,7 +86,7 @@ soon...
 
 
 <details>
-<summary><img src="archive_version_1/assets/9.svg" height="30"> <b>Web Development</b></summary>
+<summary><img src="archive_version_1/icons/web.svg" height="30"> <b>Web Development</b></summary>
 <br>
 
 - [Personal website](https://imgabrielas.com/)
@@ -95,7 +95,7 @@ soon...
 
 
 <details>
-<summary><img src="archive_version_1/assets/10.svg" height="30"> <b>Creative Projects</b></summary>
+<summary><img src="archive_version_1/icons/idea.svg" height="30"> <b>Creative Projects</b></summary>
 <br>
 
 - [PyPlayground](https://github.com/imgabrielas/py-playground)
