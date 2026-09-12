@@ -24,7 +24,7 @@ from a student who loves to explore.
 
 
 <details>
-<summary><img src="archive_version_1/assets/6.svg" height="30"> <b>data analysis</b></summary>
+<summary><img src="archive_version_1/assets/6.svg" height="30"> <b>Data Analysis</b></summary>
 <br>
 
 - [Data Analysis Practice](https://github.com/imgabrielas/DataAnalysisPractice)
@@ -35,7 +35,7 @@ from a student who loves to explore.
 
 
 <details> 
-<summary><img src="archive_version_1/assets/7.svg" height="30"> <b>machine learning</b></summary>
+<summary><img src="archive_version_1/assets/7.svg" height="30"> <b>Machine Learning</b></summary>
 <br> 
 
 - [How 2 Make ML](https://github.com/imgabrielas/How-To-Make-ML)<br>
@@ -77,7 +77,7 @@ from a student who loves to explore.
 
 
 <details>
-<summary><img src="archive_version_1/assets/9.svg" height="30"> <b>web development</b></summary>
+<summary><img src="archive_version_1/assets/9.svg" height="30"> <b>Web Development</b></summary>
 <br>
 
 - [Personal website](https://imgabrielas.com/)
@@ -86,7 +86,7 @@ from a student who loves to explore.
 
 
 <details>
-<summary><img src="archive_version_1/assets/10.svg" height="30"> <b>creative projects</b></summary>
+<summary><img src="archive_version_1/assets/10.svg" height="30"> <b>Creative Projects</b></summary>
 <br>
 
 - [PyPlayground](https://github.com/imgabrielas/py-playground)
