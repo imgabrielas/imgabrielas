@@ -3,7 +3,7 @@
 <tr>
 <td width="45%" valign="top">
 
-## <img src="archive_version_1/assets/1.svg" height="30"> about me
+## <img src="archive_version_1/icons/star.svg" height="30"> about me
 
 <img src="archive_version_1/icons/code.svg" height="30"> student blending fashion, IT, business and a thousand other hobbies<br>
 
