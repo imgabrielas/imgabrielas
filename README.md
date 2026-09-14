@@ -1,4 +1,4 @@
-<img src="archive_version_1/assets/banner3.png">
+<img src="archive_version_1/assets/banner4.PNG">
 <table>
 <tr>
 <td width="45%" valign="top">
@@ -111,4 +111,4 @@ soon...
 <img src="archive_version_1/assets/tech_stack_transparent.gif">
 <br>
 
-<img src="archive_version_2/contribution_graph.png">
+<img src="contribution_graph/contribution_graph.png">
