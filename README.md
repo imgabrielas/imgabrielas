@@ -61,7 +61,7 @@ from a student who loves to explore.
 <summary><img src="archive_version_1/icons/pytorch.svg" height="30"> <b>Deep Learning</b></summary>
 <br>
 
-soon...
+- [Italian GP Winner Prediction](https://github.com/imgabrielas/F1-Enthusiast/tree/main/Italian%20GP%20Winner%20Prediction)
 
 </details>
 
