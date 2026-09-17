@@ -41,19 +41,28 @@ from a student who loves to explore.
 - [How 2 Make ML](https://github.com/imgabrielas/How-To-Make-ML)<br>
   <sub>Might just be my most used repo ;)) Used for practice, feel free to check it out!</sub>
 
+
 - [Not so Small ML](https://github.com/imgabrielas/Not-So-Small-ML)<br>
   <sub>Small end-to-end data science projects. </sub>
-  - [Alzheimer Detection](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/alzheimer) | [Kaggle Competition Smartphone Addiction](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/smartphone-addiction) | [Kaggle Competition Electric Vehicle Purchases](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Electric-Vehicle-Purchases)
+  - [Alzheimer Detection](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/alzheimer) |  [Gold Price Prediction](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Gold%20Price%20Prediction) | [Phishing Websites](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Phishing%20Websites)
+
+
+- [Kaggle Competitions](https://www.kaggle.com/work/competitions)<br>
+  - [Kaggle Competition Smartphone Addiction](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/smartphone-addiction) | [Kaggle Competition Electric Vehicle Purchases](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Electric-Vehicle-Purchases) 
+
 
 - [Sephora Analysis](https://github.com/imgabrielas/Sephora)<br>
   <sub>End-to-end data analysis project on Sephora product & review data. Python descriptive and predictive analysis, Power BI report.</sub>
 
+
 - [F1](https://github.com/imgabrielas/F1-Enthusiast.git)<br>
   <sub>As a Formula 1 fan, this is my hobby project. Ongoing - needs more work, as F1 is fairly complex and quite unpredictable. Standings analysis & winner prediction.</sub>
 
-- [Amazon Sales](https://github.com/imgabrielas/Amazon-sales)
 
-- [Biometry](https://github.com/imgabrielas/Biometry)<br>
+- [Amazon Sales](https://github.com/imgabrielas/Amazon-sales)<br>
+
+
+- [Biometry](https://github.com/imgabrielas/Biometry)
 
 </details>
 
