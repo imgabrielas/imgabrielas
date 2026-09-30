@@ -48,7 +48,7 @@ from a student who loves to explore.
 
 
 - [Kaggle Competitions](https://www.kaggle.com/work/competitions)<br>
-  - [Kaggle Competition Smartphone Addiction](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/smartphone-addiction) | [Kaggle Competition Electric Vehicle Purchases](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Electric%20Vehicle%20Purchases) 
+  - [Kaggle Competition Smartphone Addiction](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Smartphone%20Addiction) | [Kaggle Competition Electric Vehicle Purchases](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Electric%20Vehicle%20Purchases) 
 
 
 - [Sephora Analysis](https://github.com/imgabrielas/Sephora)<br>
