@@ -70,7 +70,14 @@ from a student who loves to explore.
 <summary><img src="archive_version_1/icons/pytorch.svg" height="30"> <b>Deep Learning</b></summary>
 <br>
 
-- [Italian GP Winner Prediction](https://github.com/imgabrielas/F1-Enthusiast/tree/main/Italian%20GP%20Winner%20Prediction)
+
+- [Grey Matter Multiplication](https://github.com/imgabrielas/Grey_Matter_Multiplication)<br>
+<sub>Repository focused on DL projects. Equivalent of NotSoSmallML but for DL</sub>
+  - [CNN](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/CNN%20Cloud%20classification)
+  - [RNN](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/RNN)
+
+- [Italian GP Winner Prediction](https://github.com/imgabrielas/F1-Enthusiast/tree/main/Italian%20GP%20Winner%20Prediction)<br>
+<sub>Ongoing...</sub>
 
 </details>
 
