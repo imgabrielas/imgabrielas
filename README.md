@@ -48,7 +48,7 @@ from a student who loves to explore.
 
 
 - [Kaggle Competitions](https://www.kaggle.com/work/competitions)<br>
-  - [Aug 2026 Smartphone Addiction](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Smartphone%20Addiction) | [Sep 2026 Electric Vehicle Purchases](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Electric%20Vehicle%20Purchases) 
+  - [Aug 2026 Smartphone Addiction](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Smartphone%20Addiction) | [Sep 2026 Electric Vehicle Purchases](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Electric%20Vehicle%20Purchases) | [Oct 2026 Predicting Airline Satisfaction](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Predicting%20Airline%20Satisfaction)
 
 
 - [Sephora Analysis](https://github.com/imgabrielas/Sephora)<br>
