@@ -87,8 +87,32 @@ from a student who loves to explore.
 <br>
 
 - [GenAI LAB](https://github.com/imgabrielas/GenAI-Lab)
+  - [Gemini Terminal](https://github.com/imgabrielas/GenAI-Lab/tree/main/Gemini-Terminal)
 
 </details>
+
+
+
+<details>
+<summary><img src="archive_version_1/icons/nlp.svg" height="30"> <b>NLP</b></summary>
+<br>
+
+Soon...
+
+</details>
+
+
+
+<details>
+<summary><img src="archive_version_1/icons/random.svg" height="30"> <b>Unclassified TECH</b></summary>
+<br>
+
+- [Rabbit Holes](https://github.com/imgabrielas/Rabbit-Holes)
+  - [Blockchain]()
+
+</details>
+
+
 
 <details>
 <summary><img src="archive_version_1/icons/face-id.svg" height="30"> <b>Computer Vision</b></summary>
