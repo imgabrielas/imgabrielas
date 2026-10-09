@@ -97,7 +97,8 @@ from a student who loves to explore.
 <summary><img src="archive_version_1/icons/nlp.svg" height="30"> <b>NLP</b></summary>
 <br>
 
-Soon...
+- [Sephora Sentiment Analysis](https://github.com/imgabrielas/Sephora)<br>
+  <sub>Notebook 06 covers sentiment analysis, diving deeper into customers reviews data</sub>
 
 </details>
 
