@@ -153,3 +153,8 @@ from a student who loves to explore.
 <br>
 
 <img src="contribution_graph/contribution_graph.png">
+
+![Profile views](https://komarev.com/ghpvc/?username=imgabrielas&color=blueviolet&style=flat-square)
+
+
+
