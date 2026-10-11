@@ -20,6 +20,7 @@ from pathlib import Path
 
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
 import pandas as pd
 
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -119,6 +120,8 @@ def make_plot(df: pd.DataFrame, out_path: str) -> None:
 
     ax.set_ylabel("Contributions", color=GRID_AXIS_COLOR)
     ax.set_xlabel("")
+    ax.set_ylim(0, 20)
+    ax.yaxis.set_major_locator(mticker.MultipleLocator(5))
 
     # weekly total, dashed step line on its own axis (very different scale)
     ax2 = ax.twinx()
@@ -147,17 +150,17 @@ def make_plot(df: pd.DataFrame, out_path: str) -> None:
     ax.grid(True, axis="y", color=GRID_AXIS_COLOR, alpha=0.25, linewidth=0.7)
     ax.set_axisbelow(True)
 
-    # small level legend, GitHub-style "Less -> More", top right
+    # small level legend, GitHub-style "Less -> More", top left
     handles = [
         plt.Line2D([0], [0], marker="o", linestyle="", markersize=7,
                    markerfacecolor=LEVEL_COLORS[i], markeredgecolor="none")
         for i in range(5)
     ]
     level_legend = ax.legend(
-        handles, LEVEL_LABELS, loc="upper right", frameon=False,
+        handles, LEVEL_LABELS, loc="upper left", frameon=False,
         labelcolor=GRID_AXIS_COLOR, fontsize=8, ncol=5,
         columnspacing=0.8, handletextpad=0.3, title="Contributions",
-        title_fontsize=8, bbox_to_anchor=(1, 1),
+        title_fontsize=8, bbox_to_anchor=(0, 1), alignment="left",
     )
     level_legend.get_title().set_color(GRID_AXIS_COLOR)
     ax.add_artist(level_legend)
@@ -167,8 +170,8 @@ def make_plot(df: pd.DataFrame, out_path: str) -> None:
     lines2, labels2 = ax2.get_legend_handles_labels()
     ax.legend(
         lines1 + lines2, labels1 + labels2,
-        loc="upper right", frameon=False, labelcolor=GRID_AXIS_COLOR,
-        fontsize=9, bbox_to_anchor=(1, 0.93),
+        loc="upper left", frameon=False, labelcolor=GRID_AXIS_COLOR,
+        fontsize=9, bbox_to_anchor=(0, 0.93),
     )
 
     fig.tight_layout()
