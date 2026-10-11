@@ -15,8 +15,10 @@
 
 --- 
 <h3>This week I'm working on:</h3>
-- F1 Italian and Singapore GP (baseline models + DL)
-- Signal processing (Sound Digit Recognition & EEG --> Deep Learning Repo)
+- F1 Italian and Singapore GP<br> 
+<sub>(baseline models + DL)</sub>
+- Signal processing<br>
+<sub>(Sound Digit Recognition & EEG in Deep Learning Repo)</sub>
 
 
 </td>
