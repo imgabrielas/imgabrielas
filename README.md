@@ -13,6 +13,12 @@
 
 <p align="center"><img src="archive_version_1/assets/qr.svg" height="200"></p>
 
+--- 
+<h6>This week I'm working on:</h6>
+- F1 Italian and Singapore GP (baseline models + DL)
+- Signal processing (Sound Digit Recognition & EEG --> Deep Learning Repo)
+
+
 </td>
 
 <td width="55%" valign="top">
@@ -75,8 +81,11 @@ from a student who loves to explore.
 <sub>Repository focused on DL projects. Equivalent of NotSoSmallML but for DL</sub>
   - [CNN](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/CNN%20Cloud%20classification)
   - [CNN Brain Tumor MRI Prediction](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/CNN%20Brain%20Tumor%20MRI)
+  - [NN EEG Sleep Stage Prediction](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/EEG%20Sleep)
   - [RNN Weather Prediction](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/RNN)
   - [Italian GP Winner Prediction](https://github.com/imgabrielas/F1-Enthusiast/tree/main/Italian%20GP%20Winner%20Prediction)<br>
+<sub>Ongoing...</sub>
+  - [Signal Processing Spoken Digit Recognition](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/Spoken%20Digit%20Recognition)<br>
 <sub>Ongoing...</sub>
 
 </details>
