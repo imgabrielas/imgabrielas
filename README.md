@@ -14,7 +14,7 @@
 <p align="center"><img src="archive_version_1/assets/qr.svg" height="200"></p>
 
 --- 
-<h6>This week I'm working on:</h6>
+<h3>This week I'm working on:</h3>
 - F1 Italian and Singapore GP (baseline models + DL)
 - Signal processing (Sound Digit Recognition & EEG --> Deep Learning Repo)
 
