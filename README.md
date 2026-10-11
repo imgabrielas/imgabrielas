@@ -14,10 +14,10 @@
 <p align="center"><img src="archive_version_1/assets/qr.svg" height="200"></p>
 
 --- 
-<h3>This week I'm working on:</h3>
-- F1 Italian and Singapore GP<br> 
+#### This week I'm working on:
+- [F1 Italian and Singapore GP](https://github.com/imgabrielas/F1-Enthusiast.git)<br> 
 <sub>(baseline models + DL)</sub>
-- Signal processing<br>
+- [Signal processing](https://github.com/imgabrielas/Grey_Matter_Multiplication)<br>
 <sub>(Sound Digit Recognition & EEG in Deep Learning Repo)</sub>
 
 
