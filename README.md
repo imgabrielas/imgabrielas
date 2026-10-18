@@ -15,8 +15,6 @@
 
 --- 
 #### This week I'm working on:
-- [F1 Italian and Singapore GP](https://github.com/imgabrielas/F1-Enthusiast.git)<br> 
-<sub>(baseline models + DL)</sub>
 - [Signal processing](https://github.com/imgabrielas/Grey_Matter_Multiplication)<br>
 <sub>(Sound Digit Recognition & EEG in Deep Learning Repo)</sub>
 
