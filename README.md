@@ -5,7 +5,7 @@
 
 ## <img src="archive_version_1/icons/star.svg" height="30"> about me
 
-<img src="archive_version_1/icons/code.svg" height="30"> student blending fashion, IT, business and a thousand other hobbies<br>
+<img src="archive_version_1/icons/code.svg" height="30"> Ms AMBITIOUS, student blending fashion, IT, business and a thousand other hobbies<br>
 
 <img src="archive_version_1/icons/game.svg" height="30"> love all things that spark curiosity<br>
 
