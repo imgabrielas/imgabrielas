@@ -16,7 +16,7 @@
 --- 
 #### This week I'm working on:
 - [Signal processing](https://github.com/imgabrielas/Grey_Matter_Multiplication)<br>
-<sub>(Sound Digit Recognition & EEG in Deep Learning Repo)</sub>
+- [EEG Sleep phases prediction](https://github.com/imgabrielas/Grey_Matter_Multiplication)
 
 
 </td>
