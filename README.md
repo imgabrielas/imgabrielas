@@ -81,7 +81,6 @@ from a student who loves to explore.
 <sub>Repository focused on DL projects. Equivalent of NotSoSmallML but for DL</sub>
   - [CNN](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/CNN%20Cloud%20classification)
   - [CNN Brain Tumor MRI Prediction](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/CNN%20Brain%20Tumor%20MRI)
-  - [NN EEG Sleep Stage Prediction](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/EEG%20Sleep)
   - [RNN Weather Prediction](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/RNN)
   - [Italian GP Winner Prediction](https://github.com/imgabrielas/F1-Enthusiast)<br>
 <sub>Ongoing...</sub>
