@@ -45,11 +45,11 @@ from a student who loves to explore.
 <br> 
 
 - [How 2 Make ML](https://github.com/imgabrielas/How-To-Make-ML)<br>
-  <sub>Might just be my most used repo ;)) Used for practice, feel free to check it out!</sub>
+  <sub>Practice, practice, practice! Small individual concepts ;)</sub>
 
 
 - [Not so Small ML](https://github.com/imgabrielas/Not-So-Small-ML)<br>
-  <sub>Small end-to-end data science projects. </sub>
+  <sub>(small?) End-to-end data science projects. </sub>
   - [Alzheimer Detection](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/alzheimer) |  [Gold Price Prediction](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Gold%20Price%20Prediction) | [Phishing Websites](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Phishing%20Websites)
 
 
@@ -83,7 +83,6 @@ from a student who loves to explore.
   - [CNN Brain Tumor MRI Prediction](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/CNN%20Brain%20Tumor%20MRI)
   - [RNN Weather Prediction](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/RNN)
   - [Italian GP Winner Prediction](https://github.com/imgabrielas/F1-Enthusiast)<br>
-<sub>Ongoing...</sub>
   - [Signal Processing Spoken Digit Recognition](https://github.com/imgabrielas/Grey_Matter_Multiplication/tree/main/Spoken%20Digit%20Recognition)<br>
 <sub>Ongoing...</sub>
 
@@ -162,7 +161,6 @@ from a student who loves to explore.
 
 <img src="contribution_graph/contribution_graph.png">
 
-[//]: # (![Profile views]&#40;https://komarev.com/ghpvc/?username=imgabrielas&color=blueviolet&style=flat-square&#41;)
 
 
 
