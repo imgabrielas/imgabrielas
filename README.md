@@ -16,6 +16,7 @@
 --- 
 #### This week I'm working on:
 - [Signal processing](https://github.com/imgabrielas/Grey_Matter_Multiplication)<br>
+- [Airline Satisfaction Kaggle Competition](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Airline%20Satisfaction)
 
 
 </td>
