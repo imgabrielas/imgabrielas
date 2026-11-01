@@ -15,8 +15,7 @@
 
 --- 
 #### This week I'm working on:
-- [Signal processing](https://github.com/imgabrielas/Grey_Matter_Multiplication)<br>
-- [Airline Satisfaction Kaggle Competition](https://github.com/imgabrielas/Not-So-Small-ML/tree/main/Airline%20Satisfaction)
+- Update soon, need to pick one of the $10^n$ ideas
 
 
 </td>
@@ -33,9 +32,12 @@ from a student who loves to explore.
 <summary><img src="archive_version_1/icons/magnifying-glass.svg" height="30"> <b>Data Analysis</b></summary>
 <br>
 
-- [Data Analysis Practice](https://github.com/imgabrielas/DataAnalysisPractice)
+- [In Data We Trust](https://github.com/imgabrielas/In-data-we-trust)
+  - [Data Analysis Practice](https://github.com/imgabrielas/DataAnalysisPractice)
+  - [Automated Data Analytics Pipeline](https://github.com/imgabrielas/In-data-we-trust/tree/main/Data%20Analytics%20Pipeline)
 - [Sephora Analysis](https://github.com/imgabrielas/Sephora)<br>
   <sub>End-to-end data analysis project on Sephora product & review data. Python descriptive and predictive analysis, Power BI report.</sub>
+
 </details>
 
 
