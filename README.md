@@ -15,7 +15,10 @@
 
 --- 
 #### This week I'm working on:
-- Update soon, need to pick one of the $10^n$ ideas
+
+[//]: # (- Update soon, need to pick one of the $10^n$ ideas)
+- Predicting Credit Card Fraud Kaggle November 2026
+- Updating personal website
 
 
 </td>
