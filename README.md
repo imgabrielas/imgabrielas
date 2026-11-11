@@ -17,8 +17,8 @@
 #### This week I'm working on:
 
 [//]: # (- Update soon, need to pick one of the $10^n$ ideas)
-- Predicting Credit Card Fraud Kaggle November 2026
-- FitCast - Fashion related app, more info soon...
+- **(on hold)** Predicting Credit Card Fraud Kaggle November 2026 
+- **(on hold)** FitCast - Fashion related app, more info soon... 
 
 
 </td>
