@@ -35,6 +35,7 @@ from a student who loves to explore.
 <summary><img src="archive_version_1/icons/magnifying-glass.svg" height="30"> <b>Data Analysis</b></summary>
 <br>
 
+- [TeDe Learning by Teaching](https://github.com/imgabrielas/TeDe-Data-Analysis)
 - [In Data We Trust](https://github.com/imgabrielas/In-data-we-trust)
   - [Data Analysis Practice](https://github.com/imgabrielas/DataAnalysisPractice)
   - [Automated Data Analytics Pipeline](https://github.com/imgabrielas/In-data-we-trust/tree/main/Data%20Analytics%20Pipeline)
